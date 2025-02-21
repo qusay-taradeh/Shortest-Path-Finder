@@ -1,0 +1,60 @@
+Shortest path:
+Source: Akka
+Destination: Salfit
+
+Shortest path by Dijkstra's algorithm:
+Salfit <--(50km)--Nablus <--(43km)--Jenin <--(74km)--Akka <--(-6551808km)--
+Total distance: 167km
+
+
+Shortest path using Breadth First Search (BFS):
+Salfit <----Qalqilya <----Jenin <----Akka <----
+
+Shortest path:
+Source: Akka
+Destination: Salfit
+
+Shortest path by Dijkstra's algorithm:
+Salfit <--(50km)--Nablus <--(43km)--Jenin <--(74km)--Akka <--(-6551808km)--
+Total distance: 167km
+
+
+Shortest path using Breadth First Search (BFS):
+Salfit <----Qalqilya <----Jenin <----Akka <----
+
+Shortest path:
+Source: Akka
+Destination: Salfit
+
+Shortest path by Dijkstra's algorithm:
+Salfit <--(50km)--Nablus <--(43km)--Jenin <--(74km)--Akka <--(-6551808km)--
+Total distance: 167km
+
+
+Shortest path using Breadth First Search (BFS):
+Salfit <----Qalqilya <----Jenin <----Akka <----
+
+Shortest path:
+Source: Akka
+Destination: Hebron
+
+Shortest path by Dijkstra's algorithm:
+Hebron <--(45km)--Bethlehem <--(30km)--Ramallah <--(53km)--Jericho <--(52km)--Tubas <--(30km)--Jenin <--(74km)--Akka <--(0km)--
+Total distance: 284km
+
+
+Shortest path using Breadth First Search (BFS):
+Hebron <----Bethlehem <----Ramallah <----Jericho <----Tubas <----Jenin <----Akka <----
+
+Shortest path:
+Source: Akka
+Destination: Salfit
+
+Shortest path by Dijkstra's algorithm:
+Salfit <--(50km)--Nablus <--(43km)--Jenin <--(74km)--Akka <--(0km)--
+Total distance: 167km
+
+
+Shortest path using Breadth First Search (BFS):
+Salfit <----Qalqilya <----Jenin <----Akka <----
+
